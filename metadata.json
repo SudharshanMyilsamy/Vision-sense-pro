@@ -1,0 +1,5 @@
+{
+  "name": "VisionSense Pro",
+  "description": "Professional-grade real-time object detection system with voice feedback.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
